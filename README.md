@@ -1,3 +1,11 @@
+# Project Idea
+
+An app that displays and keeps track a collection of the user owned books. It can display various info like ISBN, Title, Author, image, and description.
+
+Here is my original project: https://github.com/YolandaHaynes/bookstache
+
+--------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
